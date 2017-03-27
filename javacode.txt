@@ -1,4 +1,3 @@
-# javacode
 package HibertTest;
  
 public class HilberOne {
